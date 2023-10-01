@@ -81,7 +81,7 @@ namespace Danstagram.Inventory.Service.Controllers
 
             await inventoryItemsRepository.UpdateAsync(existingItem);
 
-            await publishEndpoint.Publish(new InventoryItemUpdated(existingItem.Id, existingItem.Caption, existingItem.LikeCount));
+            await publishEndpoint.Publish(new InventoryItemUpdated(existingItem.Id,existingItem.UserId,existingItem.Image, existingItem.Caption, existingItem.LikeCount,existingItem.CreatedDate));
 
             return NoContent();
         }

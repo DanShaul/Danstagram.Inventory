@@ -57,7 +57,8 @@
     "C:\\Users\\dansh\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\dansh\\.nuget\\packages\\system.text.json\\6.0.8\\system.text.json.6.0.8.nupkg.sha512",
     "C:\\Users\\dansh\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
-    "C:\\Users\\dansh\\.nuget\\packages\\zstdsharp.port\\0.6.2\\zstdsharp.port.0.6.2.nupkg.sha512"
+    "C:\\Users\\dansh\\.nuget\\packages\\zstdsharp.port\\0.6.2\\zstdsharp.port.0.6.2.nupkg.sha512",
+    "C:\\Users\\dansh\\.nuget\\packages\\danstagram.inventory.contracts\\1.0.0\\danstagram.inventory.contracts.1.0.0.nupkg.sha512"
   ],
   "logs": []
 }
