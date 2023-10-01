@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Danstagram.Inventory.Contracts/1.0.0": {
+        "runtime": {
+          "Danstagram.Inventory.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Danstagram.Inventory.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

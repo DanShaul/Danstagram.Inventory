@@ -1,0 +1,12 @@
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Inventory\src\Danstagram.Inventory.Contracts\bin\Debug\net5.0\Danstagram.Inventory.Contracts.deps.json
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Inventory\src\Danstagram.Inventory.Contracts\bin\Debug\net5.0\Danstagram.Inventory.Contracts.dll
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Inventory\src\Danstagram.Inventory.Contracts\bin\Debug\net5.0\Danstagram.Inventory.Contracts.pdb
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Inventory\src\Danstagram.Inventory.Contracts\obj\Debug\net5.0\Danstagram.Inventory.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Inventory\src\Danstagram.Inventory.Contracts\obj\Debug\net5.0\Danstagram.Inventory.Contracts.AssemblyInfoInputs.cache
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Inventory\src\Danstagram.Inventory.Contracts\obj\Debug\net5.0\Danstagram.Inventory.Contracts.AssemblyInfo.cs
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Inventory\src\Danstagram.Inventory.Contracts\obj\Debug\net5.0\Danstagram.Inventory.Contracts.csproj.CoreCompileInputs.cache
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Inventory\src\Danstagram.Inventory.Contracts\obj\Debug\net5.0\Danstagram.Inventory.Contracts.dll
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Inventory\src\Danstagram.Inventory.Contracts\obj\Debug\net5.0\Danstagram.Inventory.Contracts.pdb
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Inventory\src\Danstagram.Inventory.Contracts\obj\Debug\net5.0\ref\Danstagram.Inventory.Contracts.dll
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Inventory\src\Danstagram.Inventory.Contracts\bin\Debug\net5.0\ref\Danstagram.Inventory.Contracts.dll
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Inventory\src\Danstagram.Inventory.Contracts\obj\Debug\net5.0\Danstagram.Inventory.Contracts.csproj.AssemblyReference.cache
